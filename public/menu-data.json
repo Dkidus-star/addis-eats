@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Doro Wat",
+    "description": "Spicy Ethiopian chicken stew served with a hard-boiled egg and injera.",
+    "price": 450,
+    "category": "Ethiopian",
+    "image": "https://placehold.co/400x300?text=Doro+Wat"
+  },
+  {
+    "id": "2",
+    "name": "Shiro Tegabino",
+    "description": "Rich, spiced chickpea stew served bubbling hot with injera.",
+    "price": 200,
+    "category": "Ethiopian",
+    "image": "https://placehold.co/400x300?text=Shiro"
+  },
+  {
+    "id": "3",
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, fresh mozzarella, and basil.",
+    "price": 350,
+    "category": "Pizza",
+    "image": "https://placehold.co/400x300?text=Margherita"
+  },
+  {
+    "id": "4",
+    "name": "Addis Double Burger",
+    "description": "Two beef patties, cheddar cheese, lettuce, and our special house sauce.",
+    "price": 300,
+    "category": "Burgers",
+    "image": "https://placehold.co/400x300?text=Double+Burger"
+  },
+  {
+    "id": "5",
+    "name": "St. George Beer",
+    "description": "Cold, crisp local Ethiopian lager.",
+    "price": 80,
+    "category": "Drinks",
+    "image": "https://placehold.co/400x300?text=St+George"
+  },
+  {
+    "id": "6",
+    "name": "Fresh Mango Juice",
+    "description": "Freshly squeezed thick mango juice.",
+    "price": 100,
+    "category": "Drinks",
+    "image": "https://placehold.co/400x300?text=Mango+Juice"
+  }
+]
